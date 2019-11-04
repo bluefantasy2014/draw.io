@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T09:06:12.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="zQ8tqv8hR5OeURfdHYA1" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-04T09:07:21.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="A0cXLz_Z4WwCSCP3mcHr" version="12.1.9" type="github" pages="1">
   <diagram id="oSZOzNcBbiMApiXRJXEg" name="Page-1">
     <mxGraphModel dx="1153" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="UkmADf47RZ3XQEVZXumn-1" value="账户主题(人或者企业)" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UkmADf47RZ3XQEVZXumn-2" value="账户&lt;br&gt;(类型：资产类)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
