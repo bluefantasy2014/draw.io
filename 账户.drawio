@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-11-05T11:31:14.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="FegWyO5Bkp4_gjJOJV3t" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T11:38:39.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="EM29NW1yxx8-jG6DYmAe" version="12.1.9" type="github" pages="1">
   <diagram id="oSZOzNcBbiMApiXRJXEg" name="Page-1">
     <mxGraphModel dx="913" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="UkmADf47RZ3XQEVZXumn-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="840" height="200" as="geometry"/>
+        </mxCell>
         <mxCell id="UkmADf47RZ3XQEVZXumn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UkmADf47RZ3XQEVZXumn-1" target="UkmADf47RZ3XQEVZXumn-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -38,10 +41,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UkmADf47RZ3XQEVZXumn-12" value="网商外标户" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="910" width="120" height="60" as="geometry"/>
+          <mxGeometry x="160" y="910" width="66" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UkmADf47RZ3XQEVZXumn-13" value="饿了吗网商监管大账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="910" width="134" height="60" as="geometry"/>
+          <mxGeometry x="277" y="910" width="73" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UkmADf47RZ3XQEVZXumn-14" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UkmADf47RZ3XQEVZXumn-12" target="UkmADf47RZ3XQEVZXumn-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1030" as="sourcePoint"/>
+            <mxPoint x="260" y="980" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
