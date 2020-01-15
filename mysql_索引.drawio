@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T08:28:52.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="BYQZtVwsMsaw_YJCi9QS" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T08:32:14.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="WgsXa3oyx8L16-oQ8jd_" version="12.5.3" type="github">
   <diagram id="2sDEv0wensciOBOWSS-e" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry x="190" y="360" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Y7yod59N0h33jMctHfkD-10" value="&lt;span style=&quot;color: rgb(48 , 48 , 48) ; font-family: &amp;#34;avenir&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;undo log&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="90" width="120" height="450" as="geometry"/>
+          <mxGeometry x="590" y="90" width="90" height="450" as="geometry"/>
         </mxCell>
         <mxCell id="Y7yod59N0h33jMctHfkD-13" value="" style="endArrow=classic;html=1;entryX=-0.017;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="Y7yod59N0h33jMctHfkD-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,6 +67,9 @@
         </mxCell>
         <mxCell id="Y7yod59N0h33jMctHfkD-14" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(48 , 48 , 48) ; font-family: &amp;#34;avenir&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;DB_ROW_ID&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y7yod59N0h33jMctHfkD-15" value="通过undolog来重构数据的早期版本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="100" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
