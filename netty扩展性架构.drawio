@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2020-03-01T09:53:42.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="o0HwEu4OGhztCV3K5CWQ" version="12.7.9" type="github"><diagram id="yPCf9CUGtNr2qTbOwgeG" name="Page-1">7VZNj5swEP01SLsHJDCQj+Mm3XZXbdpKq6q9VQ4M4NbY1Dgh6a+vjc1XWKqN1F6qXpLhjccznvF74ATb4vRG4DLf8QSog7zk5ASvHITWaKV+NXA2QBT6BsgESQw0AJ7IT7CgZ9EDSaAaLZScU0nKMRhzxiCWIwwLwevxspTTcdYSZzABnmJMp+hnksjcoCu07PEHIFneZvYXa+MpcLvYnqTKccLrARTcO8FWcC6NVZy2QHXv2r6YuNcz3q4wAUy+JOBxl+/C6IvMv6K3TCZV7X345Npdjpge7IGdLXLuNoRJECmOQT9uNg5aUJVksxfKyrTVIqUAfTZ5tg1b/DjoA21SzqSb4oJQNfg7R9e2wEXZRAZBqP4T+IaPBx2MWaUbxhmfLGoCt9ZblboghTR4k6FqLoze3w/LU+crsMgIcyUvjdMb+GJOuTCwyPY3UdDliBa96d92ARJO0sWUZMxEUUhl59zj+Hsm+IEl7sXGKIq67S7s275Pl/1UZ2S6SIqratRQeS7hPS7gHd5rhvXxc82v7bXU9Sw9b5pym2PFGfqAWUJBtAWoC2RqGNel4GbU/6f/j0z/yJUwqD7e3I6n/JLho1FelMuCKsvvfEcQqm2zOuV36qfeGsALkOKslrQBoRXMc/smsM91r7/+0mL5QHtXFsNW8rNu614VlWGF8QqRRFORtI3Jm/cRkRcTeOzUE3mWZR9JCZQwGM3umTk3e/1+vhc3LQy7y6XfPdZcLfsrbPhgiWLIMKTE1WSdY+nEgwXB9Ir1OdAjSBLj+RhdgVuBIGlXf50TCa6Rh6Z+xkWh8/4lkup+zRNvoElL3eQZ1R3ch5ZiZt8J8/QdmyGe1ibdtj/KP7RejPgXPEM/NZMJ/aLr6ace+++fxjf4iAzufwE=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-01T10:07:14.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="jsJ7A9XGrN86Vj5KuAZe" version="12.7.9" type="github">
+  <diagram id="yPCf9CUGtNr2qTbOwgeG" name="Page-1">
+    <mxGraphModel dx="928" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JNYOmFnwZQEJcVvZtrIi-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="280" width="629" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JNYOmFnwZQEJcVvZtrIi-1" value="&lt;b&gt;【 Sockt.read() 】&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JNYOmFnwZQEJcVvZtrIi-2" value="&lt;b&gt;【 Sockt.write() 】&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JNYOmFnwZQEJcVvZtrIi-5" value="&lt;b&gt;Netty Internal IO Threads (Transport ) Implementation&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="380" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
