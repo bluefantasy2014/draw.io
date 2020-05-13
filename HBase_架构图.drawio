@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T08:57:02.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="UGcR8xl-9-ZnFdZlCKg7" version="13.1.1" type="github"><diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">xZNLT4QwEMc/DcdNoN0s61Xc1fWRPXAw68U0dKRNCiWlCPjpLTK8sm6iFz0x85tH2/8MHo2y5tawQjxpDsojPm88euMREqzJxn060vYkDIMepEZyTJpALD8AoY+0khzKRaLVWllZLGGi8xwSu2DMGF0v0960Wp5asBTOQJwwdU6fJbeip1sSTvwOZCqGk4PNVR/J2JCMLykF47qeIbrzaGS0tr2VNRGoTrxBl75ufyE6XsxAbn9SYOj2tDuuzLF+vX9U/uGwT08r7PLOVIUPfnlAVtp2EMHoKufQ9fE9el0LaSEuWNJFazd2x4TNlPMCZ2JHMBaai1cNRgHc5oDOwJrWpWDBqFk7LAP69WwEiMRM/TUyhkNPx86TLs5AaX4hE/lGJvLvMtG/k8m506Z+xWb/O919Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-13T08:57:45.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="q89J9O4XUeobG_rfUgOe" version="13.1.1" type="github">
+  <diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D-ygo-tocBprTAZBaIi5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="85" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r38YEO-rOw_JLl0IIFgY-1" value="ZK1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r38YEO-rOw_JLl0IIFgY-2" value="ZK2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-2" value="ZK集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
