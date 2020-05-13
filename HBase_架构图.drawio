@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T13:26:10.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="_-0KE11axpmPaOzSXqXs" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T23:19:33.342Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="3SoJihFz7fT-LeoYRAke" version="13.1.1" type="github">
   <diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,22 +34,16 @@
           <mxGeometry x="562" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="270" height="110" as="geometry" />
+          <mxGeometry x="80" y="340" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="390" width="240" height="60" as="geometry" />
+          <mxGeometry x="100" y="370" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-10" value="HFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="60" height="20" as="geometry" />
+        <mxCell id="D-ygo-tocBprTAZBaIi5-12" value="Region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="369" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-11" value="HFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="420" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-12" value="HRegion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-13" value="HRegionServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="357" width="100" height="20" as="geometry" />
+        <mxCell id="D-ygo-tocBprTAZBaIi5-13" value="RegionServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="347" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="350" width="270" height="110" as="geometry" />
@@ -71,6 +65,27 @@
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-20" value="&lt;span style=&quot;box-sizing: border-box ; color: rgb(86 , 89 , 105) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;hbase:meta表的地址是保存在ZK中的&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-10" value="StoreFile(HFile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-11" value="HFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-23" value="Store(cf1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="387" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-24" value="Store(cf2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="389" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-25" value="MemStore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="415" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
