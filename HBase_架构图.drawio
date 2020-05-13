@@ -1,20 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T08:57:45.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="q89J9O4XUeobG_rfUgOe" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T08:59:24.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="C9aMpT8bJvBguX7Vl9CH" version="13.1.1" type="github">
   <diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D-ygo-tocBprTAZBaIi5-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="210" width="260" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="85" width="260" height="70" as="geometry" />
+          <mxGeometry x="220" y="85" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r38YEO-rOw_JLl0IIFgY-1" value="ZK1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r38YEO-rOw_JLl0IIFgY-2" value="ZK2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-2" value="ZK集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="60" width="70" height="20" as="geometry" />
+          <mxGeometry x="310" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-3" value="HMaster1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-4" value="HMaster2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-6" value="HMaster集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
