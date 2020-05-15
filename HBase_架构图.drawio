@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T11:52:02.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="K2OeYwECYiv9avu521Zv" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-15T11:53:52.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="_2gkervaW85iQprk6S_1" version="13.1.1" type="github">
   <diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,19 @@
         <mxCell id="1" parent="0" />
         <mxCell id="D-ygo-tocBprTAZBaIi5-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-ygo-tocBprTAZBaIi5-1" target="D-ygo-tocBprTAZBaIi5-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="280" />
+              <mxPoint x="519" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-79" value="监听RS的状态信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D-ygo-tocBprTAZBaIi5-77">
+          <mxGeometry x="0.66" relative="1" as="geometry">
+            <mxPoint x="-64.5" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="260" height="70" as="geometry" />
@@ -21,7 +34,11 @@
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D-ygo-tocBprTAZBaIi5-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="235" as="targetPoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="492" y="220" />
+              <mxPoint x="370" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-74" value="上报心跳" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D-ygo-tocBprTAZBaIi5-7">
@@ -140,6 +157,9 @@
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-70" value="Write Ahead Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D-ygo-tocBprTAZBaIi5-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="197" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
