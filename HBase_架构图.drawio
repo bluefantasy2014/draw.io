@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T01:36:07.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="TggrmFLzjD54k2bgBmHL" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-17T01:38:20.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="No7rwmCQTCUki_btOrke" version="13.1.1" type="github">
   <diagram id="aulxN4eOuPWsLyGqAV_t" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,56 +113,65 @@
         <mxCell id="D-ygo-tocBprTAZBaIi5-54" value="Write Ahead Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="501" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-72" value="上报心跳数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="D-ygo-tocBprTAZBaIi5-57" target="D-ygo-tocBprTAZBaIi5-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="340" width="310" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="370" width="280" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-59" value="Region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="369" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-60" value="RegionServer_2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="347" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-62" value="StoreFile(HFile)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="440" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-64" value="HFile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="440" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-65" value="Store(cf1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="387" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-66" value="Store(cf2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="612" y="389" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-67" value="MemStore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="415" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-68" value="StoreFile(HFile)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="440" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-69" value="MemStore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="605" y="415" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D-ygo-tocBprTAZBaIi5-70" value="Write Ahead Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="490" width="280" height="30" as="geometry" />
+        <mxCell id="D-ygo-tocBprTAZBaIi5-72" value="上报心跳数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="D-ygo-tocBprTAZBaIi5-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="585" y="310" />
+              <mxPoint x="305" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D-ygo-tocBprTAZBaIi5-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="441" y="197" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UtdwBUO21i7ymR71JKF4-1" value="Block Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="183" y="342" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="328" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="385" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-4" value="Region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="384" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-5" value="RegionServer_2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="324" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="405" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-7" value="StoreFile(HFile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="455" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="405" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-9" value="HFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="455" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-10" value="Store(cf1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="402" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-11" value="Store(cf2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="404" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-12" value="MemStore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-13" value="StoreFile(HFile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="455" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-14" value="MemStore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-15" value="Write Ahead Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="505" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtdwBUO21i7ymR71JKF4-16" value="Block Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="533" y="346" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
