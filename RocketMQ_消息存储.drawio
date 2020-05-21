@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-21T06:36:38.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="R2Y72tX5EG2JSGdeU3az" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-21T08:06:25.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="NhiI37RspUiZLZhHuWy_" version="13.1.2" type="github">
   <diagram id="i2791ngCbLQseSlkUwbt" name="Page-1">
     <mxGraphModel dx="946" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
         <mxCell id="IjkTyQHNbskmDtRTg9kh-7" value="+ topic: String (表示消息要发到哪个Topic上)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IjkTyQHNbskmDtRTg9kh-6">
           <mxGeometry y="26" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IjkTyQHNbskmDtRTg9kh-8" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IjkTyQHNbskmDtRTg9kh-6">
+        <mxCell id="IjkTyQHNbskmDtRTg9kh-8" value="+ flag: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IjkTyQHNbskmDtRTg9kh-6">
           <mxGeometry y="52" width="380" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IjkTyQHNbskmDtRTg9kh-9" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IjkTyQHNbskmDtRTg9kh-6">
+        <mxCell id="IjkTyQHNbskmDtRTg9kh-9" value="+ properties: Map" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IjkTyQHNbskmDtRTg9kh-6">
           <mxGeometry y="78" width="380" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IjkTyQHNbskmDtRTg9kh-10" value="&lt;b&gt;消息体的属性：&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
