@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-30T02:33:02.455Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.13 Safari/537.36" etag="ewCwdcDW0dg0j5hjGw2k" version="13.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-30T02:36:18.131Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.13 Safari/537.36" etag="GDWpbtYOfFn8JstNKU63" version="13.1.8" type="github">
   <diagram id="i2791ngCbLQseSlkUwbt" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="IjkTyQHNbskmDtRTg9kh-4" value="TopicA_Consumer2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NmaBWuBQcBl2WBvaYUSr-1" value="Broker集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-1" value="Broker集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="700" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="NmaBWuBQcBl2WBvaYUSr-2" value="P1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -140,6 +140,12 @@
           <mxGeometry x="-0.1302" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-31" value="Broker A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="708" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-32" value="Broker B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="766" width="85" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
