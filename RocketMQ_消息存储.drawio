@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-30T02:36:18.131Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.13 Safari/537.36" etag="GDWpbtYOfFn8JstNKU63" version="13.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-30T03:27:59.888Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.13 Safari/537.36" etag="7Vj1nLnkpy6QnWK3whx1" version="13.1.8" type="github">
   <diagram id="i2791ngCbLQseSlkUwbt" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="595" width="195" height="130" as="geometry" />
         </mxCell>
         <mxCell id="jUnSyPaDh8FVO5F6lZOA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="80" width="120" height="400" as="geometry" />
+          <mxGeometry x="120" y="80" width="120" height="299" as="geometry" />
         </mxCell>
         <mxCell id="jUnSyPaDh8FVO5F6lZOA-4" value="TopicA_msg1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="120" height="50" as="geometry" />
@@ -146,6 +146,27 @@
         </mxCell>
         <mxCell id="NmaBWuBQcBl2WBvaYUSr-32" value="Broker B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="766" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-33" value="NameServer集群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="487" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-34" value="NameServer A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="495" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-35" value="NameServer B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="553" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-36" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NmaBWuBQcBl2WBvaYUSr-6" target="NmaBWuBQcBl2WBvaYUSr-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="593" as="sourcePoint" />
+            <mxPoint x="238" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmaBWuBQcBl2WBvaYUSr-37" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NmaBWuBQcBl2WBvaYUSr-33" target="NmaBWuBQcBl2WBvaYUSr-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="744" as="sourcePoint" />
+            <mxPoint x="459" y="694" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
