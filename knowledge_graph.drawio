@@ -1,11 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="mKogiKjmqUMBvd8MD6oq">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Er6Njcbd1SzyDhNU2DO7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="210" y="260" as="geometry" />
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-3" edge="1" parent="1" source="Er6Njcbd1SzyDhNU2DO7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Er6Njcbd1SzyDhNU2DO7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="乔布斯" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="苹果公司" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="创始人" vertex="1">
+          <mxGeometry height="30" width="60" x="353" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-5" edge="1" parent="1" source="Er6Njcbd1SzyDhNU2DO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Er6Njcbd1SzyDhNU2DO7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="A" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="C" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;G = (N, E, L, f)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;N : 表示节点（各种实体都可以用节点表示）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="240" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;E : 表示由两个节点组成的边（任意两个节点都可以组成边）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;L : 表示标签的集合&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="240" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;f : E -&amp;gt; L&amp;nbsp; 表示将标签L赋值给变E。比如将标签B赋值给变=变（A,C) 时构成了一个三元的关系 (A, B, C)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="240" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-14" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="135" width="30" x="190" y="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="上图表示 节点A 和 C 之间的有标签B" vertex="1">
+          <mxGeometry height="30" width="250" x="265" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Er6Njcbd1SzyDhNU2DO7-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="上图表示 乔布斯&amp;nbsp; 和 苹果公司 之间的有 &quot;创始人&quot; 的标签关系" vertex="1">
+          <mxGeometry height="30" width="280" x="265" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
