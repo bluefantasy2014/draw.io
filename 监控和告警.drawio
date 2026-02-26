@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="QMwlK0FNQkEi9_s4-jZL">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-1" parent="1" style="swimlane;startSize=20;horizontal=1;containerType=tree;" value="Mindmap" vertex="1">
+          <mxGeometry height="470" width="1090" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-2" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-6" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" target="gWG3B4k6VKeJf81d_h4x-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-12" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gWG3B4k6VKeJf81d_h4x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-6" parent="gWG3B4k6VKeJf81d_h4x-1" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="告警" vertex="1">
+          <mxGeometry height="40" width="100" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-7" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="高级别告警的作用" vertex="1">
+          <mxGeometry height="30" width="140" x="244" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-14" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gWG3B4k6VKeJf81d_h4x-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-16" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gWG3B4k6VKeJf81d_h4x-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-18" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gWG3B4k6VKeJf81d_h4x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-26" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gWG3B4k6VKeJf81d_h4x-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-11" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="低级别告警的作用" vertex="1">
+          <mxGeometry height="30" width="140" x="244" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-13" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="风险预警与隐患发现" vertex="1">
+          <mxGeometry height="30" width="150" x="430" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-15" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="趋势分析与容量规划" vertex="1">
+          <mxGeometry height="30" width="150" x="430" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-22" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gWG3B4k6VKeJf81d_h4x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-24" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gWG3B4k6VKeJf81d_h4x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-17" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="监控覆盖与系统探活" vertex="1">
+          <mxGeometry height="30" width="150" x="430" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-21" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&lt;span style=&quot;text-align: left;&quot;&gt;低级别告警的存在说明监控体系的完善度较高&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="630" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-23" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="非核心服务的守护" vertex="1">
+          <mxGeometry height="30" width="140" x="630" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-28" edge="1" parent="gWG3B4k6VKeJf81d_h4x-1" source="gWG3B4k6VKeJf81d_h4x-25" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gWG3B4k6VKeJf81d_h4x-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-25" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="故障根因分析的上下文" vertex="1">
+          <mxGeometry height="30" width="160" x="425" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gWG3B4k6VKeJf81d_h4x-27" parent="gWG3B4k6VKeJf81d_h4x-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="第级别告警可能是高级别告警的前兆并可以辅助找到高级别告警的原因" vertex="1">
+          <mxGeometry height="30" width="420" x="640" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
